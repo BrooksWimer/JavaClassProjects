@@ -36,9 +36,18 @@ In these projects, we built our version of common data types to better understan
 AlgorithmProjects:
 In these projects, we built algorithms to perform operations on the data types we studied.
   -DoubleAllStack
+	  Uses queues and stacks to double the presence of each value in a stack or a queue.
   -Palindrome
+	  Checks if an input string is a stack.
   -MergeApproach
+	  Combines two input arrays.
   -PairFinder
+	  Takes an input array and a target int value. Finds and prints pairs of values in the array that sum to the target value.
   -Histogram
+	  Builds a histogram based on the user input. 
   -Sort
+	  A list of callable sorting algorithms.
+ -list iterator
+   A callable method for iterating through lists.
+
 

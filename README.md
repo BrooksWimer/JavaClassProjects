@@ -48,6 +48,6 @@ In these projects, we built algorithms to perform operations on the data types w
   -Sort
 	  A list of callable sorting algorithms.
  -list iterator
-   A callable method for iterating through lists.
+   	A callable method for iterating through lists.
 
 
